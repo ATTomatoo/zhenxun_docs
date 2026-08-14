@@ -4,7 +4,8 @@ subSidebar: false
 ---
 
 :::warning
-该整合包仅支持Windows,整合包内已内置Python,GIT
+该整合包仅支持Windows,整合包内已内置GIT  
+```***Python需要自行安装且版本大于等于3.11***```
 :::
 
 ## 下载压缩包文件
